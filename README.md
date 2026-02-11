@@ -53,11 +53,14 @@ Despite strong revenue growth, the company faced:
 * Operational expenses increased steadily
 * Net Profit did not scale proportionally with revenue
 
-### Market & Customer Analysis
+### Sales, Market & Customer Analysis
 
+* Revenue Leaders Are Profit Laggards. They contributed significant sales but made more losses.
+* Smaller Markets More Profitable. France, Philippines, Indonesia consistently appear in top net profit lists.
 * India, USA, UK generated high revenue but low profitability
 * Amazon & Flipkart drove volume but eroded margins
 * Smaller markets like France & Philippines showed better profitability discipline
+* 
 
 ### Supply Chain Performance
 
@@ -65,15 +68,45 @@ Despite strong revenue growth, the company faced:
 * Absolute Net Error increased significantly
 * Recurring excess inventory & stockout issues
 * Working capital inefficiencies observed
+* Demand planning and inventory alignment not optimized.
+
+### Executive View
+* AtliQ achieved exponential revenue growth from FY18 to FY22 (21M → 3.74B).
+* However, profitability has not scaled proportionately due to declining GM% and rising operational expenses.
+* High-revenue markets (India, USA, UK, Canada) are consistently underperforming in net profit.
+* Large customers (Amazon, Flipkart) contribute significant revenue but erode margins.
+* Forecast instability post-COVID has increased working capital risk via excess inventory and stockouts.
+* Market share slightly improved in FY22, indicating growth push — but at cost of margin pressure.
 
 ---
 
 ## 🚀 Strategic Recommendations
 
 1. Strengthen forecast planning for top revenue-driving SKUs.
+   Supply Chain team should:
+    Introduce demand-sensing models for top 20 SKUs.
+    Monitor monthly forecast bias.
+   Specifics:
+    Reduce absolute net error by 20%.
+    Focus on SKUs repeatedly facing stockouts/excess.
 2. Implement margin governance framework for large customers.
+   Finance + Sales leadership should implement margin threshold controls for high-volume customers (Amazon, Flipkart).
+   Specifics:
+    Define minimum GM% per contract.
+    Review discount structures quarterly.
+    Reduce blanket post-invoice discounts. 
 3. Optimize advertising spend through ROI-based evaluation.
+   Marketing should evaluate ROI per campaign.
+   Specifics:
+    Link ad spend to incremental net sales.
+    Pause campaigns with low ROI.
 4. Classify markets into Growth-focused vs Margin-focused strategy.
+   Commercial team should classify markets into:
+    Growth-focused (India, USA)
+    Margin-focused (France, Philippines)
+   Specifics:
+    Growth markets → volume strategy but controlled discount caps.
+    Margin markets → protect pricing power.
 
 ---
 
