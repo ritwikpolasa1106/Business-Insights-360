@@ -56,6 +56,7 @@ Despite strong revenue growth, the company faced:
 ### Sales, Market & Customer Analysis
 
 * Revenue Leaders Are Profit Laggards. They contributed significant sales but made more losses.
+* Accessories, Notebooks, Peripherals drove most of the revenue. But profitability inconsistent.
 * Smaller Markets More Profitable. France, Philippines, Indonesia consistently appear in top net profit lists.
 * India, USA, UK generated high revenue but low profitability
 * Amazon & Flipkart drove volume but eroded margins
@@ -65,7 +66,7 @@ Despite strong revenue growth, the company faced:
 
 * Forecast accuracy volatility post-COVID
 * Absolute Net Error increased significantly
-* Recurring excess inventory & stockout issues
+* Recurring excess inventory & stockout issues. Frequent excess inventory in Accessories, frequent stockouts in Peripherals & Motherboards.
 * Working capital inefficiencies observed
 * Demand planning and inventory alignment not optimized.
 
