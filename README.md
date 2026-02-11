@@ -85,6 +85,3 @@ Despite strong revenue growth, the company faced:
 * Data-driven executive decision-making support
 
 ---
-
-* A sharper 1-page executive PDF
-* Or a version optimized specifically for recruiters/interviews.
