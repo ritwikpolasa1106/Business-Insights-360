@@ -60,7 +60,6 @@ Despite strong revenue growth, the company faced:
 * India, USA, UK generated high revenue but low profitability
 * Amazon & Flipkart drove volume but eroded margins
 * Smaller markets like France & Philippines showed better profitability discipline
-* 
 
 ### Supply Chain Performance
 
