@@ -51,7 +51,7 @@ Despite strong revenue growth, the company faced:
 * Revenue grew exponentially (21M → 3.74B)
 * Gross Margin % declined by 5% over time
 * Operational expenses increased steadily
-* Net Profit fell down to -13% without scaling proportionally with revenue
+* Net Profit went down to -13% without scaling proportionally with revenue
 
 ### Sales, Market & Customer Analysis
 
