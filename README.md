@@ -49,9 +49,9 @@ Despite strong revenue growth, the company faced:
 ### Financial Performance
 
 * Revenue grew exponentially (21M → 3.74B)
-* Gross Margin % declined over time
+* Gross Margin % declined by 5% over time
 * Operational expenses increased steadily
-* Net Profit did not scale proportionally with revenue
+* Net Profit fell down to -13% without scaling proportionally with revenue
 
 ### Sales, Market & Customer Analysis
 
@@ -64,8 +64,8 @@ Despite strong revenue growth, the company faced:
 
 ### Supply Chain Performance
 
-* Forecast accuracy volatility post-COVID
-* Absolute Net Error increased significantly
+* Forecast accuracy dropped by 2% since COVID
+* Absolute Net Error increased significantly (0.8 -> 9.78M)
 * Recurring excess inventory & stockout issues. Frequent excess inventory in Accessories, frequent stockouts in Peripherals & Motherboards.
 * Working capital inefficiencies observed
 * Demand planning and inventory alignment not optimized.
@@ -76,7 +76,7 @@ Despite strong revenue growth, the company faced:
 * High-revenue markets (India, USA, UK, Canada) are consistently underperforming in net profit.
 * Large customers (Amazon, Flipkart) contribute significant revenue but erode margins.
 * Forecast instability post-COVID has increased working capital risk via excess inventory and stockouts.
-* Market share slightly improved in FY22, indicating growth push — but at cost of margin pressure.
+* Market share slightly improved by 6% in FY22, indicating growth push — but at cost of margin pressure.
 
 ---
 
