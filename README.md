@@ -48,26 +48,26 @@ Despite strong revenue growth, the company faced:
 
 ### Financial Performance
 
-* Revenue grew exponentially (21M → 3.74B)
-* Gross Margin % declined by 5% over time
-* Operational expenses increased steadily
-* Net Profit went down to -13% without scaling proportionally with revenue
+* Revenue grew exponentially (21M → 3.74B).
+* Gross Margin % declined by 5% over time.
+* Operational expenses increased steadily. More amount of GM was spent on Advertising.
+* Net Profit went down to -13% without scaling proportionally with revenue.
 
 ### Sales, Market & Customer Analysis
 
 * Revenue Leaders Are Profit Laggards. They contributed significant sales but made more losses.
 * Accessories, Notebooks, Peripherals drove most of the revenue. But profitability inconsistent.
 * Smaller Markets More Profitable. France, Philippines, Indonesia consistently appear in top net profit lists.
-* India, USA, UK generated high revenue but low profitability
-* Amazon & Flipkart drove volume but eroded margins
-* Smaller markets like France & Philippines showed better profitability discipline
+* India, USA, UK generated high revenue but low profitability.
+* Amazon & Flipkart drove volume but eroded margins.
+* Smaller markets like France & Philippines showed better profitability discipline.
 
 ### Supply Chain Performance
 
-* Forecast accuracy dropped by 2% since COVID
-* Absolute Net Error increased significantly (0.8 -> 9.78M)
+* Forecast accuracy dropped by 2% since COVID.
+* Absolute Net Error increased significantly (0.8M -> 9.78M).
 * Recurring excess inventory & stockout issues. Frequent excess inventory in Accessories, frequent stockouts in Peripherals & Motherboards.
-* Working capital inefficiencies observed
+* Working capital inefficiencies observed.
 * Demand planning and inventory alignment not optimized.
 
 ### Executive View
